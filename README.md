@@ -1,13 +1,100 @@
-<h1 align="center">Hi 👋, I'm Radhames Capellan</h1>
-<h3 align="center">An Enthusiast, and every day wanting to learn something new, Full Stack training, but Lover of Backend and the Rock genre in many of its variants!!!</h3>
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0077b5%26height%3D220%26section%3Dheader%26text%3DHola,%2520soy%2520Radhames!%26fontSize%3D70%26fontAlignY%3D40%26desc%3DDev%2520%252B%2520Data%2520%252B%2520Cloud%26descSize%3D25%26descAlignY%3D65" alt="Header Radhames" width="100%"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/radhamesc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="radhamesc" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/radhames-capellan-web-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radhames-capellan" height="30" width="40" /></a>
-<a href="https://fb.com/radhames.capellan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="radhames.capellan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/radhamesc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@radhamesc" height="30" width="40" /></a>
+<div align="center">
+
+👨‍💻 Software Developer & Data Engineer en formación
+
+<p align="center">
+Transformando datos en soluciones y código en productos escalables.
+
+
+
+
+Biólogo de formación, Ingeniero de Datos por experiencia y Desarrollador de Software por vocación.
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+🚀 Sobre mí
+
+Actualmente soy estudiante de 2º año de Desarrollo de Aplicaciones Multiplataforma (DAM) en Madrid, con un background sólido de 2 años como Data Engineer. Me especializo en crear puentes entre la lógica de backend robusta y la eficiencia en el manejo de datos en la nube.
+
+🔭 Actualmente trabajando en: Proyectos de integración continua y APIs RESTful con Spring Boot.
+
+🌱 Aprendiendo: Profundizando en arquitecturas de microservicios y despliegues serverless en AWS.
+
+🎯 Objetivo: Busco prácticas curriculares (FCT) en Madrid para Marzo 2026.
+
+💡 Curiosidad: Mi background científico me hace obsesivo con la optimización y el método estructurado.
+
+🛠️ Tech Stack
+
+<div align="center">
+
+Backend
+
+Frontend
+
+Data & Cloud
+
+Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dradhamesc-capellan%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" height="180" alt="Radhames stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dradhamesc-capellan%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26langs_count%3D6" height="180" alt="Radhames languages" />
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dradhamesc-capellan%26theme%3Dradical%26hide_border%3Dtrue" alt="Radhames streak" />
+</div>
+
+📫 Conectemos
+
+<div align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:radhamesc@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.google.com/search?q=https://raddev.me" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-raddev.me-black%3Fstyle%3Dfor-the-badge%26logo%3Dfirefox" alt="Portfolio Badge"/>
+</a>
+</div>
