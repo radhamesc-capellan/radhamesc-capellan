@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 👨‍💻 De la Biología al Código<br><br>Convertí mi curiosidad científica en pasión por el desarrollo de software. Tras 2 años trabajando como **Data Engineer** y orquestando pipelines de datos, decidí formalizar mis conocimientos estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.<br><br>Hoy combino esa lógica analítica con habilidades sólidas en **Desarrollo de Software y Cloud (AWS)**. Me obsesiona la eficiencia, la arquitectura limpia y aprender nuevas tecnologías cada semana.<br><br>💼 Buscando mi próxima gran oportunidad de prácticas (FCT) para Marzo 2026.**
 
 
