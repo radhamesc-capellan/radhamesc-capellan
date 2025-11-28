@@ -88,7 +88,7 @@ Tools
 📫 Conectemos
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/radhames-capellan-software-dev/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:radhamesc@gmail.com">
