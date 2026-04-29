@@ -1,5 +1,11 @@
 # 💫 Sobre Mi:
-👨‍💻 De la Biología al Código<br><br>Convertí mi curiosidad científica en pasión por el desarrollo de software. Tras 2 años trabajando como **Data Engineer** y orquestando pipelines de datos, decidí formalizar mis conocimientos estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.<br><br>Hoy combino esa lógica analítica con habilidades sólidas en **Desarrollo de Software y Cloud (AWS)**. Me obsesiona la eficiencia, la arquitectura limpia y aprender nuevas tecnologías cada semana.<br><br>💼
+👨‍💻 De la Biología al Software: aplicando rigor analítico al desarrollo .NET
+
+Desarrollador Full Stack especializado en .NET Core, con experiencia sólida en el diseño de APIs RESTful, persistencia con EF Core y arquitecturas en la nube.
+
+Mi trayectoria me permitió evolucionar de la investigación biológica al desarrollo de sistemas complejos. Tras años gestionando pipelines de datos a gran escala, hoy me enfoco en crear soluciones backend escalables bajo principios SOLID y Clean Architecture. Siempre en búsqueda de optimizar procesos, mejorar la mantenibilidad del código y construir productos que impacten positivamente en el negocio.
+
+Stack: C#, .NET, SQL Server, React, Docker, Azure, Aws.
 
 
 ## 🌐 Contáctame:
