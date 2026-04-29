@@ -66,6 +66,6 @@ Hoy me especializo en el ecosistema **.NET Core**, construyendo soluciones backe
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=2980b9&icon_color=2980b9&text_color=333333" alt="Estadísticas de Radhames" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=transparent&hide_border=true&title_color=2980b9&text_color=333333" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=radhamesc-capellan&show_icons=true&theme=transparent&hide_border=true&title_color=2980b9&icon_color=2980b9&text_color=333333" alt="Estadísticas de Radhames" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhamesc-capellan&layout=compact&theme=transparent&hide_border=true&title_color=2980b9&text_color=333333" alt="Lenguajes más usados" width="48%" />
 </p>
